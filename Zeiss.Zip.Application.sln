@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zeiss.Zip.Core", "Zeiss.Zip.Core\Zeiss.Zip.Core.csproj", "{3BB94034-73D1-4445-B301-3FE67BC37D70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zeiss.Zip.Wpf", "Zeiss.Zip.Wpf\Zeiss.Zip.Wpf.csproj", "{9707E168-74A8-47DE-8D80-3A1C69ACCC2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BB94034-73D1-4445-B301-3FE67BC37D70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BB94034-73D1-4445-B301-3FE67BC37D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BB94034-73D1-4445-B301-3FE67BC37D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BB94034-73D1-4445-B301-3FE67BC37D70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9707E168-74A8-47DE-8D80-3A1C69ACCC2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9707E168-74A8-47DE-8D80-3A1C69ACCC2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9707E168-74A8-47DE-8D80-3A1C69ACCC2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9707E168-74A8-47DE-8D80-3A1C69ACCC2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67CEAFBF-DC49-4F96-B827-D60289669B33}
+	EndGlobalSection
+EndGlobal
